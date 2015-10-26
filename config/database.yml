@@ -8,8 +8,8 @@ development:
   adapter: postgresql
   encoding: utf8
   database: alcancearoadb
-  username: alcance
-  password: z})E#xgt
+  username: postgres
+  password: 12345678
   host: localhost
 
 production:
